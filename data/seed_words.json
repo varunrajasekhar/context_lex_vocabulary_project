@@ -1,0 +1,542 @@
+[
+  {
+    "id": "a1-happy",
+    "level": "A1",
+    "headword": "happy",
+    "part_of_speech": "adjective",
+    "definition": "Feeling pleasure or joy.",
+    "example": "I was happy to hear your good news.",
+    "synonyms": [
+      "glad",
+      "pleased"
+    ]
+  },
+  {
+    "id": "a1-help",
+    "level": "A1",
+    "headword": "help",
+    "part_of_speech": "verb",
+    "definition": "To make something easier for someone.",
+    "example": "Could you help me carry these bags?",
+    "synonyms": [
+      "assist",
+      "support"
+    ]
+  },
+  {
+    "id": "a1-learn",
+    "level": "A1",
+    "headword": "learn",
+    "part_of_speech": "verb",
+    "definition": "To gain knowledge or a new skill.",
+    "example": "I learn five new English words every day.",
+    "synonyms": [
+      "study",
+      "discover"
+    ]
+  },
+  {
+    "id": "a1-early",
+    "level": "A1",
+    "headword": "early",
+    "part_of_speech": "adverb",
+    "definition": "Before the usual or expected time.",
+    "example": "She arrived early for the meeting.",
+    "synonyms": [
+      "soon",
+      "beforehand"
+    ]
+  },
+  {
+    "id": "a1-choose",
+    "level": "A1",
+    "headword": "choose",
+    "part_of_speech": "verb",
+    "definition": "To decide which option you want.",
+    "example": "You can choose a different time.",
+    "synonyms": [
+      "select",
+      "pick"
+    ]
+  },
+  {
+    "id": "a1-quiet",
+    "level": "A1",
+    "headword": "quiet",
+    "part_of_speech": "adjective",
+    "definition": "Making very little noise.",
+    "example": "I prefer a quiet place to read.",
+    "synonyms": [
+      "silent",
+      "peaceful"
+    ]
+  },
+  {
+    "id": "a1-remember",
+    "level": "A1",
+    "headword": "remember",
+    "part_of_speech": "verb",
+    "definition": "To keep something in your memory.",
+    "example": "Please remember to bring your notebook.",
+    "synonyms": [
+      "recall",
+      "recollect"
+    ]
+  },
+  {
+    "id": "a1-travel",
+    "level": "A1",
+    "headword": "travel",
+    "part_of_speech": "verb",
+    "definition": "To go from one place to another.",
+    "example": "We travel by train on weekends.",
+    "synonyms": [
+      "journey",
+      "go"
+    ]
+  },
+  {
+    "id": "a1-friendly",
+    "level": "A1",
+    "headword": "friendly",
+    "part_of_speech": "adjective",
+    "definition": "Kind and pleasant toward others.",
+    "example": "The new neighbor is very friendly.",
+    "synonyms": [
+      "kind",
+      "warm"
+    ]
+  },
+  {
+    "id": "a1-prepare",
+    "level": "A1",
+    "headword": "prepare",
+    "part_of_speech": "verb",
+    "definition": "To get ready for something.",
+    "example": "I prepare breakfast before work.",
+    "synonyms": [
+      "get ready",
+      "arrange"
+    ]
+  },
+  {
+    "id": "a1-simple",
+    "level": "A1",
+    "headword": "simple",
+    "part_of_speech": "adjective",
+    "definition": "Easy to understand or do.",
+    "example": "The instructions were simple and clear.",
+    "synonyms": [
+      "easy",
+      "plain"
+    ]
+  },
+  {
+    "id": "a1-invite",
+    "level": "A1",
+    "headword": "invite",
+    "part_of_speech": "verb",
+    "definition": "To ask someone to come to an event.",
+    "example": "I will invite my friends for dinner.",
+    "synonyms": [
+      "ask",
+      "welcome"
+    ]
+  },
+  {
+    "id": "a1-busy",
+    "level": "A1",
+    "headword": "busy",
+    "part_of_speech": "adjective",
+    "definition": "Having many things to do.",
+    "example": "Our office is busy on Mondays.",
+    "synonyms": [
+      "occupied",
+      "active"
+    ]
+  },
+  {
+    "id": "a1-improve",
+    "level": "A1",
+    "headword": "improve",
+    "part_of_speech": "verb",
+    "definition": "To make something better.",
+    "example": "Reading every day can improve your vocabulary.",
+    "synonyms": [
+      "enhance",
+      "develop"
+    ]
+  },
+  {
+    "id": "a1-decide",
+    "level": "A1",
+    "headword": "decide",
+    "part_of_speech": "verb",
+    "definition": "To make a choice.",
+    "example": "We need to decide where to eat.",
+    "synonyms": [
+      "choose",
+      "determine"
+    ]
+  },
+  {
+    "id": "a2-arrange",
+    "level": "A2",
+    "headword": "arrange",
+    "part_of_speech": "verb",
+    "definition": "To plan or organize something.",
+    "example": "I arranged a call with the customer.",
+    "synonyms": [
+      "organize",
+      "schedule"
+    ]
+  },
+  {
+    "id": "a2-suggest",
+    "level": "A2",
+    "headword": "suggest",
+    "part_of_speech": "verb",
+    "definition": "To offer an idea or plan.",
+    "example": "Could you suggest a good restaurant?",
+    "synonyms": [
+      "recommend",
+      "propose"
+    ]
+  },
+  {
+    "id": "a2-avoid",
+    "level": "A2",
+    "headword": "avoid",
+    "part_of_speech": "verb",
+    "definition": "To stay away from something.",
+    "example": "Try to avoid unnecessary delays.",
+    "synonyms": [
+      "prevent",
+      "escape"
+    ]
+  },
+  {
+    "id": "a2-compare",
+    "level": "A2",
+    "headword": "compare",
+    "part_of_speech": "verb",
+    "definition": "To look at how things are alike or different.",
+    "example": "Let's compare the two options before buying.",
+    "synonyms": [
+      "contrast",
+      "evaluate"
+    ]
+  },
+  {
+    "id": "a2-describe",
+    "level": "A2",
+    "headword": "describe",
+    "part_of_speech": "verb",
+    "definition": "To say what something is like.",
+    "example": "Can you describe what happened?",
+    "synonyms": [
+      "explain",
+      "portray"
+    ]
+  },
+  {
+    "id": "a2-prefer",
+    "level": "A2",
+    "headword": "prefer",
+    "part_of_speech": "verb",
+    "definition": "To like one thing more than another.",
+    "example": "I prefer taking the train to driving.",
+    "synonyms": [
+      "favor",
+      "choose"
+    ]
+  },
+  {
+    "id": "a2-confirm",
+    "level": "A2",
+    "headword": "confirm",
+    "part_of_speech": "verb",
+    "definition": "To say that something is definitely true or arranged.",
+    "example": "Please confirm the appointment by email.",
+    "synonyms": [
+      "verify",
+      "validate"
+    ]
+  },
+  {
+    "id": "a2-deliver",
+    "level": "A2",
+    "headword": "deliver",
+    "part_of_speech": "verb",
+    "definition": "To bring something to a person or place.",
+    "example": "The package will be delivered tomorrow.",
+    "synonyms": [
+      "bring",
+      "transport"
+    ]
+  },
+  {
+    "id": "a2-discuss",
+    "level": "A2",
+    "headword": "discuss",
+    "part_of_speech": "verb",
+    "definition": "To talk about something with others.",
+    "example": "We discussed the timeline during lunch.",
+    "synonyms": [
+      "talk about",
+      "review"
+    ]
+  },
+  {
+    "id": "a2-expect",
+    "level": "A2",
+    "headword": "expect",
+    "part_of_speech": "verb",
+    "definition": "To think something is likely to happen.",
+    "example": "We expect the results on Friday.",
+    "synonyms": [
+      "anticipate",
+      "await"
+    ]
+  },
+  {
+    "id": "a2-consider",
+    "level": "A2",
+    "headword": "consider",
+    "part_of_speech": "verb",
+    "definition": "To think carefully about an option.",
+    "example": "Please consider another approach.",
+    "synonyms": [
+      "think about",
+      "evaluate"
+    ]
+  },
+  {
+    "id": "a2-manage",
+    "level": "A2",
+    "headword": "manage",
+    "part_of_speech": "verb",
+    "definition": "To control or organize an activity.",
+    "example": "She manages a small team.",
+    "synonyms": [
+      "run",
+      "oversee"
+    ]
+  },
+  {
+    "id": "a2-request",
+    "level": "A2",
+    "headword": "request",
+    "part_of_speech": "verb",
+    "definition": "To ask for something politely or formally.",
+    "example": "I requested an updated invoice.",
+    "synonyms": [
+      "ask for",
+      "seek"
+    ]
+  },
+  {
+    "id": "a2-respond",
+    "level": "A2",
+    "headword": "respond",
+    "part_of_speech": "verb",
+    "definition": "To answer someone.",
+    "example": "He responded to the message immediately.",
+    "synonyms": [
+      "reply",
+      "answer"
+    ]
+  },
+  {
+    "id": "a2-opportunity",
+    "level": "A2",
+    "headword": "opportunity",
+    "part_of_speech": "noun",
+    "definition": "A situation that makes something possible.",
+    "example": "This role is a good opportunity to learn.",
+    "synonyms": [
+      "chance",
+      "opening"
+    ]
+  },
+  {
+    "id": "b1-accomplish",
+    "level": "B1",
+    "headword": "accomplish",
+    "part_of_speech": "verb",
+    "definition": "To successfully complete or achieve something.",
+    "example": "We accomplished our goals ahead of schedule.",
+    "synonyms": [
+      "achieve",
+      "complete"
+    ]
+  },
+  {
+    "id": "b1-maintain",
+    "level": "B1",
+    "headword": "maintain",
+    "part_of_speech": "verb",
+    "definition": "To keep something at the same level or condition.",
+    "example": "We maintain clear records for every project.",
+    "synonyms": [
+      "preserve",
+      "keep"
+    ]
+  },
+  {
+    "id": "b1-relevant",
+    "level": "B1",
+    "headword": "relevant",
+    "part_of_speech": "adjective",
+    "definition": "Connected to the subject being discussed.",
+    "example": "Please share only relevant details in the update.",
+    "synonyms": [
+      "applicable",
+      "related"
+    ]
+  },
+  {
+    "id": "b1-approach",
+    "level": "B1",
+    "headword": "approach",
+    "part_of_speech": "noun",
+    "definition": "A way of dealing with a situation.",
+    "example": "We need a practical approach to the issue.",
+    "synonyms": [
+      "method",
+      "strategy"
+    ]
+  },
+  {
+    "id": "b1-evaluate",
+    "level": "B1",
+    "headword": "evaluate",
+    "part_of_speech": "verb",
+    "definition": "To judge the quality or value of something.",
+    "example": "Let's evaluate the results before making a decision.",
+    "synonyms": [
+      "assess",
+      "review"
+    ]
+  },
+  {
+    "id": "b1-efficient",
+    "level": "B1",
+    "headword": "efficient",
+    "part_of_speech": "adjective",
+    "definition": "Working well without wasting time or resources.",
+    "example": "This tool makes our process more efficient.",
+    "synonyms": [
+      "productive",
+      "effective"
+    ]
+  },
+  {
+    "id": "b1-priority",
+    "level": "B1",
+    "headword": "priority",
+    "part_of_speech": "noun",
+    "definition": "Something considered more important than other things.",
+    "example": "Customer safety is our top priority.",
+    "synonyms": [
+      "focus",
+      "precedence"
+    ]
+  },
+  {
+    "id": "b1-coordinate",
+    "level": "B1",
+    "headword": "coordinate",
+    "part_of_speech": "verb",
+    "definition": "To organize people or activities so they work together.",
+    "example": "I will coordinate the release with the team.",
+    "synonyms": [
+      "organize",
+      "align"
+    ]
+  },
+  {
+    "id": "b1-adapt",
+    "level": "B1",
+    "headword": "adapt",
+    "part_of_speech": "verb",
+    "definition": "To change to fit new circumstances.",
+    "example": "Our team had to adapt to the new deadline.",
+    "synonyms": [
+      "adjust",
+      "modify"
+    ]
+  },
+  {
+    "id": "b1-clarify",
+    "level": "B1",
+    "headword": "clarify",
+    "part_of_speech": "verb",
+    "definition": "To make something easier to understand.",
+    "example": "Could you clarify the requirements?",
+    "synonyms": [
+      "explain",
+      "simplify"
+    ]
+  },
+  {
+    "id": "b1-reliable",
+    "level": "B1",
+    "headword": "reliable",
+    "part_of_speech": "adjective",
+    "definition": "Able to be trusted or depended upon.",
+    "example": "We need a reliable source for the report.",
+    "synonyms": [
+      "dependable",
+      "trustworthy"
+    ]
+  },
+  {
+    "id": "b1-contribute",
+    "level": "B1",
+    "headword": "contribute",
+    "part_of_speech": "verb",
+    "definition": "To help achieve something with your effort or ideas.",
+    "example": "Everyone can contribute to the project.",
+    "synonyms": [
+      "participate",
+      "add"
+    ]
+  },
+  {
+    "id": "b1-significant",
+    "level": "B1",
+    "headword": "significant",
+    "part_of_speech": "adjective",
+    "definition": "Large or important enough to be noticed.",
+    "example": "The update brought a significant improvement.",
+    "synonyms": [
+      "important",
+      "substantial"
+    ]
+  },
+  {
+    "id": "b1-resolve",
+    "level": "B1",
+    "headword": "resolve",
+    "part_of_speech": "verb",
+    "definition": "To find a solution to a problem.",
+    "example": "We resolved the issue before deployment.",
+    "synonyms": [
+      "solve",
+      "settle"
+    ]
+  },
+  {
+    "id": "b1-implement",
+    "level": "B1",
+    "headword": "implement",
+    "part_of_speech": "verb",
+    "definition": "To put a plan or decision into action.",
+    "example": "We will implement the changes next week.",
+    "synonyms": [
+      "execute",
+      "carry out"
+    ]
+  }
+]
